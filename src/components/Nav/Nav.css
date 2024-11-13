@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+
+}
+
+.bg-body-tertiary{
+    background-color: rgb(194, 137, 247);
+    display: flex;
+    justify-content:space-between;
+    margin: 0;
+    margin-top: 0 !important;
+    padding: 20px 10px;
+}
+
+.photo{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.me-2{
+    margin-right: 20px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+}
+
+.btn{
+    border: 2px solid rgb(39, 20, 56);
+    border-radius: 5px;
+    background:rgb(139, 72, 201);
+    font-size: 20px;
+}
+
+.btn:hover{
+    background:rgb(43, 18, 54);
+    color: rgb(255, 255, 255);
+}
